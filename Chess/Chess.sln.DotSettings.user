@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71f0c1e4_002D6876_002D4435_002Dac97_002D95d0aa736f5a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestKingAntiCheck" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestStandaardRegels.TestKingAntiCheck&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca7efeda_002Dce93_002D4a95_002Dbe09_002Dac56064b5424/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestHorseJump" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestStandaardRegels&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestSlaanRegels.TestFriendlyHit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestSlaanRegels.TestPieceDisapearsOnHit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestSpecialeRegels.TestRookade&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestSpecialeRegels.TestRokade&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestPerformance.TestStartUpPerformance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestSpecialeRegels.PawnToQueen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8597F8B-1734-479C-B957-A5F048973E1E::.NETCoreApp,Version=v3.1::TestChess.TestPerformance.TestMovePiecePerformance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
